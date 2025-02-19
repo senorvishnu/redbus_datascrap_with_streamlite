@@ -28,3 +28,5 @@ Requirements
 Python 3.7+
 Google Chrome & ChromeDriver
 Dependencies (see requirements.txt)
+
+Refer for Detailed Documentation - https://docs.google.com/document/d/1lCeWoNuBkFichOww_ZWamTo9NWYG6H5ZbhBgB3IkAyY/edit?usp=sharing
